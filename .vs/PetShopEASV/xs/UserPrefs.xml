@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{67BCF840-12F1-42B6-A7C0-2600DC6A66A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.PetShopApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PetShopHassuni/PetShop/Printer.cs">
+    <Files>
+      <File FileName="PetShopHassuni/PetShop/Printer.cs" Line="35" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PetShopEASV" expanded="True">
+            <Node name="Infrastructure.Data" expanded="True" />
+            <Node name="PetShopApp" expanded="True">
+              <Node name="Printer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PetShopHassuni/Core/Core.csproj</String>
+    <String>PetShopHassuni/Core.Entity/Core.Entity.csproj</String>
+    <String>PetShopHassuni/PetShop/PetShopApp.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

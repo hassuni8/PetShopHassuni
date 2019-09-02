@@ -1,0 +1,54 @@
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Core.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csprojAssemblyReference.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CoreCompileInputs.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfoInputs.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfo.cs
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.deps.json
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.json
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.dev.json
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Core.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CopyComplete
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.deps.json
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.json
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.dev.json
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfo.cs
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CopyComplete
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.deps.json
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.json
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.dev.json
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.dll
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.dll
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Projects/PetShopEASV/PetShop/bin/Debug/netcoreapp2.1/Infrastructure.Data.pdb
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfo.cs
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CopyComplete
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/Debug/netcoreapp2.1/ConsoleApp.pdb

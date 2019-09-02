@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Hassuni/Projects/PetShopEASV/PetShop/ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj",
+        "projectName": "Core.Entity",
+        "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj",
+        "packagesPath": "/Users/Hassuni/.nuget/packages/",
+        "outputPath": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Hassuni/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj",
+        "packagesPath": "/Users/Hassuni/.nuget/packages/",
+        "outputPath": "/Users/Hassuni/Projects/PetShopEASV/Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Hassuni/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/Infrastructure.Data.csproj",
+        "projectName": "Infrastructure.Data",
+        "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/Infrastructure.Data.csproj",
+        "packagesPath": "/Users/Hassuni/.nuget/packages/",
+        "outputPath": "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Hassuni/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj"
+              },
+              "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/Hassuni/Projects/PetShopEASV/PetShop/ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Hassuni/Projects/PetShopEASV/PetShop/ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "/Users/Hassuni/Projects/PetShopEASV/PetShop/ConsoleApp.csproj",
+        "packagesPath": "/Users/Hassuni/.nuget/packages/",
+        "outputPath": "/Users/Hassuni/Projects/PetShopEASV/PetShop/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Hassuni/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core.Entity/Core.Entity.csproj"
+              },
+              "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Core/Core.csproj"
+              },
+              "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/Infrastructure.Data.csproj": {
+                "projectPath": "/Users/Hassuni/Projects/PetShopEASV/Infrastructure.Data/Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

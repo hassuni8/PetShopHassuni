@@ -1,0 +1,48 @@
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/bin/Debug/netcoreapp2.1/Core.deps.json
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/bin/Debug/netcoreapp2.1/Core.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/bin/Debug/netcoreapp2.1/Core.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/bin/Debug/netcoreapp2.1/Core.Entity.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.csprojAssemblyReference.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.csproj.CoreCompileInputs.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfoInputs.cache
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfo.cs
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.csproj.CopyComplete
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.dll
+C:/Users/Nijas Hansen/source/repos/CompulsoryAssignmentCSharpCrashCourse/Core/obj/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/bin/Debug/netcoreapp2.1/Core.deps.json
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/bin/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/bin/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/bin/Debug/netcoreapp2.1/Core.Entity.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.csprojAssemblyReference.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.csproj.CoreCompileInputs.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfoInputs.cache
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfo.cs
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.csproj.CopyComplete
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Downloads/CompulsoryAssignmentCSharpCrashCourse-master 2/Core/obj/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Projects/PetShopEASV/Core/bin/Debug/netcoreapp2.1/Core.deps.json
+/Users/Hassuni/Projects/PetShopEASV/Core/bin/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Projects/PetShopEASV/Core/bin/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Projects/PetShopEASV/Core/bin/Debug/netcoreapp2.1/Core.Entity.dll
+/Users/Hassuni/Projects/PetShopEASV/Core/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.csprojAssemblyReference.cache
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.csproj.CoreCompileInputs.cache
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfoInputs.cache
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfo.cs
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.csproj.CopyComplete
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Projects/PetShopEASV/Core/obj/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/bin/Debug/netcoreapp2.1/Core.deps.json
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/bin/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/bin/Debug/netcoreapp2.1/Core.pdb
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/bin/Debug/netcoreapp2.1/Core.Entity.dll
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/bin/Debug/netcoreapp2.1/Core.Entity.pdb
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.csprojAssemblyReference.cache
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.csproj.CoreCompileInputs.cache
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfoInputs.cache
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfo.cs
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.csproj.CopyComplete
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.dll
+/Users/Hassuni/Documents/GitHub/PetShopHassuni/Core/obj/Debug/netcoreapp2.1/Core.pdb
